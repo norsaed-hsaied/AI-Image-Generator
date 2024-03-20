@@ -1,5 +1,4 @@
 <div align="center">
-<img width="30%" src="preview/logo.png">
 
 # AI Image Generator
 An AI image generator powered by OpenAI.
@@ -8,6 +7,7 @@ An AI image generator powered by OpenAI.
 ### Setting Up
 
 > ⚠ You need to have Node JS installed!
+
 > ⚠ You also need to Generate an API KEY at [OpenAI](https://beta.openai.com/) and add it to the `.env` and `openaiController` file.
 
 --> Install the dependencies :
